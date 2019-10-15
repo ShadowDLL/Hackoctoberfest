@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+   //program for fun
     char c;
     int isLowercaseVowel, isUppercaseVowel;
     printf("Enter an alphabet: ");
